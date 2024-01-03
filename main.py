@@ -4,6 +4,7 @@
 
 ### str
 name = "Danai"
+a = "1"
 
 ### int
 
