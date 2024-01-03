@@ -3,15 +3,17 @@
 """
 
 ### str
-name = "Danai"
-a = "1"
+name = "Danai", "Snack", "School"
 
 ### int
-
+number = "10", "11", "15"
 
 ### float
-
+number_2 = "10.0", "11.2", "15.15"
 
 ### bool
+True_False1 = 10 > 1
+True_False2 = 10 < 20
+True_False3 = 15 == 15
 
-print(name)
+print(name, number, number_2, True_False1, True_False2, True_False3)
