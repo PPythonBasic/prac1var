@@ -3,7 +3,7 @@
 """
 
 ### str
-
+name = "Danai"
 
 ### int
 
@@ -12,3 +12,5 @@
 
 
 ### bool
+
+print(name)
