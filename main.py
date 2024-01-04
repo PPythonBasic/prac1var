@@ -3,17 +3,23 @@
 """
 
 ### str
-name = "Danai", "Snack", "School"
+name = "Danai"
+desert = "Snack"
+education = "School"
 
 ### int
-number = "10", "11", "15"
+desk = 3
+glass = 2
+mouse = 1
 
 ### float
-number_2 = "10.0", "11.2", "15.15"
+temp = 23.2
+time = 12.30
+cost = 125.50
 
 ### bool
-True_False1 = 10 > 1
-True_False2 = 10 < 20
-True_False3 = 15 == 15
+is_playing = False
+is_running = True
+is_eating = False
 
-print(name, number, number_2, True_False1, True_False2, True_False3)
+print(name, desert, education, desk, glass, mouse, temp, time, cost)
